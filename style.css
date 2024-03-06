@@ -30,12 +30,16 @@ button {
     background-color: #124da5;
     border-radius: 4px;
     color: #D0BDF4;
+    padding: 10px;
 }
 .popup-form {
     display: none;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+label {
+    font-size: 26px;
 }
 input {
     background-color: #8458B3;
